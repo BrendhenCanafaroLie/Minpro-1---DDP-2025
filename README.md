@@ -58,7 +58,17 @@ Di sini program akan dijalankan jika pengguna menginput angka 5 dan angka diluar
 ## Mengubah Ekskul
 <img width="1049" height="228" alt="image" src="https://github.com/user-attachments/assets/1d31fa40-68d0-4350-ad76-fab78815538c" />
 
-## 
+## Menghapus Ekskul
+<img width="938" height="137" alt="image" src="https://github.com/user-attachments/assets/7855dd31-3ffa-4341-b83c-fdd8723c3ff1" />
+
+## Mengakhiri Program
+<img width="637" height="78" alt="image" src="https://github.com/user-attachments/assets/5cb1537b-2cb7-4785-9593-44d17a38f278" />
+
+## Nomor Invalid
+<img width="645" height="81" alt="image" src="https://github.com/user-attachments/assets/c23941e6-caa3-47cb-bdf0-b9e65e10dd6c" />
+
+
+
 
 
 
