@@ -39,13 +39,14 @@ elif data == 3:
     print("Anda Berhasil Mengubah Ekskul")
 elif data == 4:
     print(ekskul)
-    ubah = int(input("Pilih nomor ekskul yang ingin diubah : ")) - 1
+    ubah = int(input("Pilih nomor ekskul yang ingin dihapus : ")) - 1
     del ekskul[ubah]
     print("Anda Berhasil Menghapus Ekskul")
 elif data == 5:
     print("Terima Kasih *PROGRAM BERAKHIR")
 else:
     print("NOMOR INVALID")
+
 
 
 
