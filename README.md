@@ -13,7 +13,9 @@ Sistem ini memungkinkan pengguna untuk:
 **3. Mengubah data ekstrakurikuler tertentu (Update)**\
 **4. Menghapus data ekstrakurikuler (Delete)**
 
+# Menu Program
+
 # Flowchart
-<img width="739" height="1111" alt="Untitled Diagram drawio (1)" src="https://github.com/user-attachments/assets/7064094c-1884-4fe0-b02b-7013a587d4f7" />
+<img width="827" height="1169" alt="Untitled Diagram drawio (2)" src="https://github.com/user-attachments/assets/8b47f75a-87ae-47d8-9a5f-003c814b52e8" />
 
 
