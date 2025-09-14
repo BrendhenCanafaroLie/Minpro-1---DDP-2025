@@ -8,7 +8,7 @@
 Program yang saya buat ini merupakan mini project 1 pada mata kuliah **Praktikum Dasar-Dasar Pemrograman**. Program di koding menggunakan bahasa program Python yang menerapkan konsep CRUD (Create, Read, Update, Delete). Tema yang dipilih adalah Ekstrakurikuler dengan tujuan untuk mengelola data kegiatan ekstrakurikuler di sekolah.
 
 # Flowchart
-<img width="827" height="1169" alt="Untitled Diagram drawio (2)" src="https://github.com/user-attachments/assets/8b47f75a-87ae-47d8-9a5f-003c814b52e8" />
+<img width="827" height="1169" alt="Untitled Diagram drawio (2)" src="https://github.com/user-attachments/assets/3fbaa854-a417-4021-9da3-20076d4ccd8b" />
 
 # Kerangka Program
 ## Array
@@ -24,19 +24,19 @@ Di atas ini adalah bagian progam yang bekerja untuk menampilkan menu
 Di sini program akan menginput pilihan nomor yang anda input dan akan dimasukkan kedalam **variabel data**
 
 ## Program Fungsi Pertama
-<img width="440" height="161" alt="image" src="https://github.com/user-attachments/assets/b1bedfe4-f43b-4a93-82e2-a57d9288baea" />\
+<img width="493" height="192" alt="image" src="https://github.com/user-attachments/assets/17cec980-d88e-4faf-8eda-9efa4b0af3c3" />\
 Di sini program akan dijalankan jika pengguna menginput angka 1 dan menjalankan fungsi untuk menambah ekskul dari pengguna kedalam array
 
 ## Program Fungsi Kedua
-<img width="471" height="153" alt="image" src="https://github.com/user-attachments/assets/cc74cd14-bbcb-4098-a83c-5b41ed991ec9" />\
+<img width="466" height="145" alt="image" src="https://github.com/user-attachments/assets/934a16ce-f927-478a-8f6c-1514883ab964" />\
 Di sini program akan dijalankan jika pengguna menginput angka 2 dan menjalanan fungsi untuk menampilkan daftar ekskul
 
 ## Program Fungsi Ketiga
-<img width="648" height="235" alt="image" src="https://github.com/user-attachments/assets/13546dcf-cdfe-49c4-a2e3-f3277850990b" />\
+<img width="649" height="276" alt="image" src="https://github.com/user-attachments/assets/dcee6523-f211-42f6-908c-41699375386a" />\
 Di sini program akan dijalankan jika pengguna menginput angka 3 dan menjalanan fungsi untuk mengubah ekskul
 
 ## Program Fungsi Keempat
-<img width="652" height="129" alt="image" src="https://github.com/user-attachments/assets/e8fde8af-5573-4c81-be7e-f54c345ff111" />\
+<img width="648" height="167" alt="image" src="https://github.com/user-attachments/assets/928d324c-f244-4533-a939-195a08c229ac" />
 Di sini program akan dijalankan jika pengguna menginput angka 4 dan menjalanan fungsi untuk menghapus ekskul
 
 ## Program Fungsi Kelima
