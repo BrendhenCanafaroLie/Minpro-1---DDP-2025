@@ -10,6 +10,21 @@ Program yang saya buat ini merupakan mini project 1 pada mata kuliah **Praktikum
 # Flowchart
 <img width="827" height="1169" alt="Untitled Diagram drawio (2)" src="https://github.com/user-attachments/assets/3fbaa854-a417-4021-9da3-20076d4ccd8b" />
 
+## Program Mulai
+Program diawali dengan menampilkan menu pilihan kepada pengguna.
+
+## Input Pilihan
+Pengguna diminta memasukkan angka sesuai menu yang tersedia.
+
+## Proses Berdasarkan Pilihan
+* Pilihan 1 (Tambah Ekskul)            : Pengguna mengisi nama ekstrakurikuler, pembina, dan jadwal, lalu disimpan dalam array ekskul, kemudian itu menampilkan bukti dengan print(ekskul).
+* Pilihan 2 (Tampilkan Daftar Ekskul)  : Program menampilkan seluruh daftar ekstrakurikuler yang tersimpan dalam array ekskul.
+* Pilihan 3 (Mengubah Ekskul)          : Pengguna memilih ekskul dengan pilihan nomor yang ingin diubah, lalu memasukkan ekskul baru sebagai pengganti, kemudian itu menampilkan bukti dengan print(ekskul).
+* Pilihan 4 (Menghapus Data)           : Pengguna memilih ekskul dengan pilihan nomor untuk dihapus dari daftar, kemudian itu menampilkan bukti dengan print(ekskul).
+* Pilihan 5 (Keluar)                   : Program menampilkan pesan akhir dan berhenti.
+Selain itu: Jika input nomor pengguna tidak sama dengan nilai 1-5, maka program menampilkan pesan “NOMOR INVALID”.
+
+
 # Kerangka Program
 ## Array
 <img width="541" height="93" alt="image" src="https://github.com/user-attachments/assets/528d1122-2d27-423b-ab2b-37816470ebab" />\
@@ -33,11 +48,11 @@ Di sini program akan dijalankan jika pengguna menginput angka 2 dan menjalanan f
 
 ## Program Fungsi Ketiga
 <img width="649" height="276" alt="image" src="https://github.com/user-attachments/assets/dcee6523-f211-42f6-908c-41699375386a" />\
-Di sini program akan dijalankan jika pengguna menginput angka 3 dan menjalanan fungsi untuk mengubah ekskul
+Di sini program akan dijalankan jika pengguna menginput angka 3 dan menjalanan fungsi untuk mengubah ekskul, ada tambahan bahwa pilihan nomor ekskul yang ingin diubah dikurang satu untuk memudahkan dan penyerdehanaan pemilihan pengguna
 
 ## Program Fungsi Keempat
 <img width="648" height="167" alt="image" src="https://github.com/user-attachments/assets/928d324c-f244-4533-a939-195a08c229ac" />
-Di sini program akan dijalankan jika pengguna menginput angka 4 dan menjalanan fungsi untuk menghapus ekskul
+Di sini program akan dijalankan jika pengguna menginput angka 4 dan menjalanan fungsi untuk menghapus ekskul, ada tambahan bahwa pilihan nomor ekskul yang ingin diubah dikurang satu untuk memudahkan dan penyerdehanaan pemilihan pengguna
 
 ## Program Fungsi Kelima
 <img width="434" height="120" alt="image" src="https://github.com/user-attachments/assets/3a9d3d69-d169-4be7-9a33-23663b483d86" />\
@@ -50,16 +65,16 @@ Di sini program akan dijalankan jika pengguna menginput angka 5 dan angka diluar
 <img width="732" height="189" alt="image" src="https://github.com/user-attachments/assets/e88b7b87-83a6-4330-9b0a-388391d4d2da" />
 
 ## Tambah Ekstrakurikuler
-<img width="389" height="132" alt="image" src="https://github.com/user-attachments/assets/1cf003d9-5414-4aff-99ab-0cc40ebf1b4f" />
+<img width="1122" height="202" alt="image" src="https://github.com/user-attachments/assets/44e7a50f-65e1-4625-ad38-5a4af6ecd05e" />
 
 ## Menampilkan Ekstrakurikuler
 <img width="898" height="113" alt="image" src="https://github.com/user-attachments/assets/8a2516a7-5c12-4f44-8c4c-14744b69abf8" />
 
 ## Mengubah Ekskul
-<img width="1049" height="228" alt="image" src="https://github.com/user-attachments/assets/1d31fa40-68d0-4350-ad76-fab78815538c" />
+<img width="1132" height="278" alt="image" src="https://github.com/user-attachments/assets/d2ae5907-ead4-41ef-9313-5f92d2dc70be" />
 
 ## Menghapus Ekskul
-<img width="938" height="137" alt="image" src="https://github.com/user-attachments/assets/7855dd31-3ffa-4341-b83c-fdd8723c3ff1" />
+<img width="1125" height="185" alt="image" src="https://github.com/user-attachments/assets/353f53b8-a1ef-442e-b948-5b5a37d74a2a" />
 
 ## Mengakhiri Program
 <img width="637" height="78" alt="image" src="https://github.com/user-attachments/assets/5cb1537b-2cb7-4785-9593-44d17a38f278" />
