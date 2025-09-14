@@ -21,12 +21,16 @@ if data == 1:
     jadwal = input("Masukkan jadwal: ")
     ekskul.append((nama, pembina, jadwal))
     print(" Ekstrakurikuler berhasil ditambahkan!")
+    print("Ini Isi Array Ekskul")
+    print(ekskul)
+
 elif data == 2:
     if ekskul:
         print("Berikut Daftar Estrakurikuler")
         print(ekskul)
     else:
         print("Tidak Ada Data Ekskul")
+        
 elif data == 3:
     print(ekskul)
     ubah = int(input("Pilih nomor ekskul yang ingin diubah : ")) - 1
@@ -37,15 +41,22 @@ elif data == 3:
     
     ekskul[ubah] = (nama, pembina, jadwal)
     print("Anda Berhasil Mengubah Ekskul")
+    print("Ini Isi Array Ekskul")
+    print(ekskul)
+
 elif data == 4:
     print(ekskul)
     ubah = int(input("Pilih nomor ekskul yang ingin dihapus : ")) - 1
     del ekskul[ubah]
     print("Anda Berhasil Menghapus Ekskul")
+    print("Ini Isi Array Ekskul")
+    print(ekskul)
+
 elif data == 5:
     print("Terima Kasih *PROGRAM BERAKHIR")
 else:
     print("NOMOR INVALID")
+
 
 
 
